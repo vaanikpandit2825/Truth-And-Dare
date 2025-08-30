@@ -16,17 +16,17 @@ A fun and interactive Flutter-based mobile app that recreates the classic party 
 
 🛠️ Tech Stack
 
-Framework: Flutter
-
-Language: Dart
-
-Widgets Used:
-
-MaterialApp, Scaffold, AppBar
-
-ElevatedButton, Column, Navigator
-
-Stateful widget management with setState()
+| Component            | Details                                                                 |
+|----------------------|-------------------------------------------------------------------------|
+| Framework            | Flutter                                                                 |
+| Language             | Dart                                                                    |
+| UI Widgets           | MaterialApp, Scaffold, AppBar, ElevatedButton, Column, Navigator       |
+| State Management     | StatefulWidget with setState()                                        |
+| Database / Storage   | Hive (local database), SharedPreferences (persistent settings)         |
+| Networking           | HTTP package (API calls and data fetching)                              |
+| Deployment Target    | Android 13+, iOS 17+ (cross-platform support)                           |
+| IDE                  | Android Studio / VS Code                                                |
+| Version Control      | Git & GitHub                                                            |
 
 ⚡ Getting Started
 
