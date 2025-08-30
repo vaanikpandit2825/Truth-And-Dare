@@ -15,18 +15,17 @@ A fun and interactive Flutter-based mobile app that recreates the classic party 
 📱 Cross-platform → Runs smoothly on Android & iOS
 
 🛠️ Tech Stack
-
-| Component            | Details                                                                 |
-|----------------------|-------------------------------------------------------------------------|
-| Framework            | Flutter                                                                 |
-| Language             | Dart                                                                    |
-| UI Widgets           | MaterialApp, Scaffold, AppBar, ElevatedButton, Column, Navigator       |
-| State Management     | StatefulWidget with setState()                                        |
-| Database / Storage   | Hive (local database), SharedPreferences (persistent settings)         |
-| Networking           | HTTP package (API calls and data fetching)                              |
-| Deployment Target    | Android 13+, iOS 17+ (cross-platform support)                           |
-| IDE                  | Android Studio / VS Code                                                |
-| Version Control      | Git & GitHub                                                            |
+| Component          | Details                                                          |
+| ------------------ | ---------------------------------------------------------------- |
+| Framework          | Flutter                                                          |
+| Language           | Dart                                                             |
+| UI Widgets         | MaterialApp, Scaffold, AppBar, ElevatedButton, Column, Navigator |
+| State Management   | StatefulWidget with setState()                                   |
+| Database / Storage | None (Truth & Dare prompts stored locally in code)               |
+| Networking         | None (offline app)                                               |
+| Deployment Target  | Android 13+, iOS 17+ (cross-platform support)                    |
+| IDE                | Android Studio / VS Code                                         |
+| Version Control    | Git & GitHub                                                     |
 
 ⚡ Getting Started
 
