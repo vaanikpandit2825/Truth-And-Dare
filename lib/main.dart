@@ -6,7 +6,6 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-  // this part decides the theme title and first screen of the app
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -215,4 +214,5 @@ class _DareScreenState extends State<DareScreen> {
     );
   }
 }
+
 
