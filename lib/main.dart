@@ -76,7 +76,8 @@ Color getRandomColor() {
   );
 }
 
-class TruthScreen extends StatefulWidget {
+class TruthScreen extends StatefulWidget 
+{
   @override
   _TruthScreenState createState() => _TruthScreenState();
 }
@@ -219,6 +220,7 @@ class _DareScreenState extends State<DareScreen> {
     );
   }
 }
+
 
 
 
