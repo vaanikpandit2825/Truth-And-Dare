@@ -20,7 +20,8 @@ class MyApp extends StatelessWidget
   }
 }
 
-class HomeScreen extends StatefulWidget {
+class HomeScreen extends StatefulWidget 
+{
   @override
   _HomeScreenState createState() => _HomeScreenState();
 }
@@ -218,6 +219,7 @@ class _DareScreenState extends State<DareScreen> {
     );
   }
 }
+
 
 
 
