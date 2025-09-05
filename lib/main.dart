@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:math';
 
-void main() 
-{
+void main(){
   runApp(MyApp());
 }
 
@@ -220,6 +219,7 @@ class _DareScreenState extends State<DareScreen> {
     );
   }
 }
+
 
 
 
